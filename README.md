@@ -38,7 +38,6 @@
       </tr>
   </table>
     <hr size ="1">
-
       <hr size = "1">
       <h3>Skills</h3>
       <table cellspacing = "10">
@@ -79,7 +78,5 @@
       </table>
       <a href="Hobbie.html">Hobbies</a>
       <a href="Contact me.html">Contact Me</a>
-
-
   </body>
 </html>
