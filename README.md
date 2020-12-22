@@ -36,8 +36,7 @@
         <td>2020</td>
         <td>Console</td>
       </tr>
-
-    </table>
+  </table>
     <hr size ="1">
 
       <hr size = "1">
